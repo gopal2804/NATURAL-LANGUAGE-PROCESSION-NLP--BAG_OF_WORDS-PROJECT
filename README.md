@@ -27,4 +27,4 @@ Here I have build <code>Confusion Mtrix</code> and used <code>accuracy_score</co
    ![image](https://user-images.githubusercontent.com/51901743/172945281-bb7254c5-d743-4829-8669-9926d3572281.png)
 
 ## Conclusion
-After constructing and comparing all the models we can see that <code>Support Vector Machine(SVM) Model</code> fits best for the given dataset because its <code>accuracy is highest i.e. approx %</code>
+After constructing and comparing all the models we can see that <code>Support Vector Machine(SVM) Model</code> fits best for the given dataset because its <code>accuracy is highest i.e. approx 79%</code>
